@@ -7,7 +7,6 @@ void setup() {
   // put your setup code here, to run once:
  pinMode(buttonPin, INPUT_PULLUP); 
  Wire.begin();
- Serial.begin(9600);
 }
 
 void loop() {
