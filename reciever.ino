@@ -7,7 +7,6 @@ void setup() {
 }
 
 void loop() {
-  //delay the process for a second.
   delay(100);
 }
 
